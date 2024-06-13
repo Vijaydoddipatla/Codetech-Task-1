@@ -1,5 +1,5 @@
 Name : D.vijay
-company: CODETECH IT SOLUTIONS
+company: CODTECH IT SOLUTIONS
 ID : CT08DS703
 Domain : java programming
 Duration : may To June
